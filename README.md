@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 💸 Personal Expense Tracker
 
 Track, visualize, and manage your daily expenses—built with React and Context API.
@@ -44,3 +45,6 @@ cd personal_Expense_Tracker
 npm install
 npm start
 ```
+=======
+
+>>>>>>> ad0749e919c3dee1bca567311ca49507cee145ff
