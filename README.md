@@ -8,12 +8,6 @@ Track, visualize, and manage your daily expenses—built with React and Context 
 
 ---
 
-## 🚀 Live Demo
-
-👉 [View the live app](https://Sarfarazz24.github.io/personal_Expense_Tracker)
-
----
-
 ## 📸 Preview
 
 ![alt text](image.png)
